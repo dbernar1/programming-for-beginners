@@ -1,7 +1,3 @@
-/*
-  Programming for Beginners
-  Dan Bernardic
-*/
 import java.util.Scanner;
 import java.util.Hashtable;
 import java.util.Enumeration;

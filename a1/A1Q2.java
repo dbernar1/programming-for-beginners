@@ -1,7 +1,3 @@
-/*
-  Programming for Beginners
-  Dan Bernardic
-*/
 import java.util.Scanner;
 
 class A1Q2 {
